@@ -15,7 +15,8 @@
     "gulp-jscs": "^3.0.2",
     "gulp-jshint": "^2.0.1",
     "jade": "^1.11.0",
-    "jshint-stylish": "^2.2.0"
+    "jshint-stylish": "^2.2.0",
+    "mssql": "^3.3.0"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
